@@ -56,19 +56,19 @@ Backend Subnet:
 
 ### Virtual Network Overview
 
-(Add screenshot here)
+!VNet Overview
 
-### Subnets Configuration
+### Subnets
 
-(Add screenshot here)
+!Subnets
 
 ### Network Security Group
 
-(Add screenshot here)
+nsg-overview.png
 
 ### Security Rules
 
-(Add screenshot here)
+security-rules.png
 
 ## Technologies Used
 
