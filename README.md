@@ -47,9 +47,7 @@ vm-metrics.png
 
 alert-rule.png
 
-### Alert Created
-
-alert-created.png
+###
 
 ## Author
 
