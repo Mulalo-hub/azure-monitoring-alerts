@@ -1,81 +1,55 @@
-# Azure Networking Lab
+# Azure Monitor & Alerts Project
 
 ## Overview
 
-This project demonstrates the creation and configuration of networking resources in Microsoft Azure.
+This project demonstrates the implementation of Azure Monitor and Alert Rules for monitoring cloud resources and detecting potential performance issues.
 
-## Objectives
+## Resources Used
 
-- Create a Virtual Network (VNet)
-- Configure multiple subnets
-- Implement Network Security Groups (NSGs)
-- Configure inbound security rules
-- Apply networking best practices
+- Azure Monitor
+- Azure Virtual Machine
+- Alert Rules
 
-## Resources Created
+## Tasks Completed
 
-- Virtual Network (VNet)
-- Frontend Subnet
-- Backend Subnet
-- Network Security Group (NSG)
-
-## Configuration
-
-### Virtual Network
-
-Name: vnet-carol-lab
-
-Address Space:
-
-10.0.0.0/16
-
-### Subnets
-
-Frontend Subnet:
-10.0.1.0/24
-
-Backend Subnet:
-10.0.2.0/24
-
-### Security Rules
-
-- SSH (Port 22)
-- HTTP (Port 80)
-- HTTPS (Port 443)
+- Viewed Virtual Machine performance metrics
+- Configured Azure Monitor
+- Created Alert Rules
+- Configured CPU monitoring thresholds
+- Implemented proactive monitoring
 
 ## Skills Demonstrated
 
-- Azure Networking
-- Virtual Networks (VNets)
-- Subnet Configuration
-- Network Security Groups
-- Network Security Rules
-- Cloud Infrastructure Design
-
-## Screenshots
-
-### Virtual Network Overview
-
-!VNet Overview
-
-### Subnets
-
-!Subnets
-
-### Network Security Group
-
-nsg-overview.png
-
-### Security Rules
-
-security-rules.png
+- Azure Monitor
+- Alert Rule Configuration
+- Performance Monitoring
+- Cloud Operations
+- Azure Administration
 
 ## Technologies Used
 
 - Microsoft Azure
-- Azure Virtual Networks
-- Network Security Groups
-- Azure Portal
+- Azure Monitor
+- Azure Alerts
+- Azure Virtual Machines
+
+## Screenshots
+
+### Monitor Overview
+
+monitor-overview.png
+
+### VM Metrics
+
+vm-metrics.png
+
+### Alert Rule Configuration
+
+alert-rule.png
+
+### Alert Created
+
+alert-created.png
 
 ## Author
 
